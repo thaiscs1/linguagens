@@ -1,0 +1,7 @@
+diferença entre linguagem compilada, hibrida e interpretada:
+
+-compilada: são as linguagens que enviam um arquivo executável para outras máquinas, não levando o código fonte junto. Não é adaptável, só funciona na plataforma em que foi feita. É mais rápida, mas mais difícil de arrumar bugs porque só envia o executável.
+
+-híbrida: meio termo
+
+-interpretada: linguagens em que o código fonte é enviado junto, então se adapta a diversas plataformas. Mais devagar, mas mais fácil de arrumar bugs.
